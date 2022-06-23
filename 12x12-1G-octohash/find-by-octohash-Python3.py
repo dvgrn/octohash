@@ -3,7 +3,7 @@ import hashlib
 
 # test pattern is 2b2o$b2obo$ob3o$o2bo$2bo$bo!, one answer is 3o4$12b2o$11b2o$8b2o3bo$7bobo$7b2o! at T=36
 
-fingerprintfile = "C:/users/greedd/Desktop/buildconst/new-hash/octohashes2obj2x12b.txt"
+fingerprintfile = "C:/path/to/octohashes2obj2x12b.txt"
 
 NUMLINES = 455380
 chardict = {}
