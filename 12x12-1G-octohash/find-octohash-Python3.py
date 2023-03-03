@@ -4,7 +4,7 @@ import hashlib
 fingerprintfile = "/YOUR/PATH/HERE/octohashes2obj2x12b"
 
 NUMLINES = 455380
-GRIDSIZE = 40
+GRIDSIZE = 64
 
 chardict = {}
 for i in range(37, 127):
